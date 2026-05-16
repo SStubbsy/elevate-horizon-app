@@ -1,9 +1,8 @@
 
-# 📱 [App Name]
+# Elevate Horizon App
 
-## 👤 Author
+## Author
 - Name: Jacob Stubbs
-- Student Number: 881840400
 
 ---
 
